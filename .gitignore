@@ -1,0 +1,16 @@
+# data
+data/raw/
+data/processed/
+
+# environment
+cricmetric_env/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# system
+.DS_Store
+Thumbs.db
